@@ -7,7 +7,7 @@ import logging
 import sys
 import urllib.request
 
-import config
+import test_pipeline.config as config
 
 
 def setup_logging():
